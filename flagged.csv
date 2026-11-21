@@ -1,0 +1,7 @@
+id,date,account,amount,merchant,reasons
+2,2026-10-29,B100,4800.0,IKEA,large amount spent
+12,2026-08-15,C121,0.85,Food&Wine,small amount spent
+13,2026-11-02,B101,9.99,Amazon,too many transactions on the same day
+14,2026-11-02,B101,49.99,Amazon,too many transactions on the same day
+15,2026-11-02,B101,120.0,Argos,too many transactions on the same day
+16,2026-11-02,B101,15.0,Amazon,too many transactions on the same day
